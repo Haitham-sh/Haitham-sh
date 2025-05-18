@@ -1,13 +1,13 @@
 <h1 align="center">Hi , I'm Haitham Elsherbiny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=full-stack+webe+developer;A+self-starter%20From+EGYPT;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=full-stack+web+developer;A+self-starter%20From+EGYPT;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 ## :sassy_man:  About me
 
 - :computer:  I’m currently working as a Freelancer
 - :nerd_face: a developer who responds positively to challenge and pressure and is a fast learner who can able to adapt quickly to new ideas and situations.
-- :thinking: I'm currently open for `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1_DiNrywsWHQu7xoE5Oh1SB-DnXwND6ie/view?usp=sharing).
+- :thinking: I'm currently open for `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1G2KRZfRhHWrmpuowBSwIx81NZzmeyg0l/view?usp=drive_link).
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Haitham-sh&theme=algolia" alt="Haitham-sh" /></p>
