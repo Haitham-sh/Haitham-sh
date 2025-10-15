@@ -26,17 +26,25 @@
 <p align="center">
 <img alt="javaScript" src="https://img.shields.io/badge/js-javaScript-yellow">
   &emsp;
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  &emsp;
 <img alt="React" src="https://img.shields.io/badge/js-React-9cf">
   &emsp;
 <img alt="TypeScript" src="https://img.shields.io/badge/TS-TypeScript-blue">
   &emsp;
 <img alt="node-current" src="https://img.shields.io/node/v/no">
   &emsp;
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+  &emsp;
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  &emsp;
 <img alt="PostgreSQL" src="https://img.shields.io/badge/SQL-PostgreSQL-blue">
   &emsp;
 <img alt="html5" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"> 
   &emsp;
 <img alt="css3" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"> 
+  &emsp;
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"> 
   &emsp;
   <img alt="aws-amazon" src="https://img.shields.io/badge/aws-amazon-orange">
   &emsp;
