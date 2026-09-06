@@ -58,24 +58,29 @@
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
 </p>
-<br/>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Stats
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
+  
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Haitham-sh's Github Stats" src="https://github-stats-extended.vercel.app/api?username=Haitham-sh&theme=algolia" height="192px"/></a>
   </p>
+
+## ⚡ Recent GitHub Activity</b></summary>
   
-
-----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com">
-  <img alt="Haitham-sh's Activity Graph" src="https://github.com/Haitham-sh/blob/main/profile-summary-card-output/0-profile-details.svg" />
-</a>
-  <br/>
+  <p align="center">
+    <a href="https://github.com">
+      <img alt="Haitham-sh's Activity Graph" src="https://raw.githubusercontent.com/Haitham-sh/Haitham-sh/main/profile-summary-card-output/algolia/0-profile-details.svg" />
+   </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com">
+      <img alt="Haitham-sh's Activity Graph" src="https://raw.githubusercontent.com/Haitham-sh/Haitham-sh/main/profile-summary-card-output/algolia/1-repos-per-language.svg" />
+    </a>
+	<a href="https://github.com">
+      <img alt="Haitham-sh's Activity Graph" src="https://raw.githubusercontent.com/Haitham-sh/Haitham-sh/main/profile-summary-card-output/algolia/2-most-commit-language.svg" />
+    </a>
+  </p>
 
 ## :trophy: Git profile Trophies
 
