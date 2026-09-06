@@ -7,7 +7,7 @@
 
 - :computer:  I’m currently working as a Freelancer
 - :nerd_face: a developer who responds positively to challenge and pressure and is a fast learner who can able to adapt quickly to new ideas and situations.
-- :thinking: I'm currently open for `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1G2KRZfRhHWrmpuowBSwIx81NZzmeyg0l/view?usp=drive_link).
+- :thinking: I'm currently open to an `internship` or a new `job opportunity`. This is [MY RESUME](https://drive.google.com/file/d/1G2KRZfRhHWrmpuowBSwIx81NZzmeyg0l/view?usp=drive_link).
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Haitham-sh&theme=algolia" alt="Haitham-sh" /></p>
@@ -64,23 +64,26 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Haitham-sh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Haitham-sh&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Haitham-sh&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Haitham-sh" height="192px"/>
-  <br/>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Haitham-sh's Github Stats" src="https://github-stats-extended.vercel.app/api?username=Haitham-sh&theme=algolia" height="192px"/></a>
   </p>
+  
 
 ----
 
-  <!--<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Haitham-sh"><img alt="Haitham-sh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Haitham-sh&custom_title=Haitham-sh's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>-->
+   <a href="https://github.com">
+  <img alt="Haitham-sh's Activity Graph" src="https://github.com/Haitham-sh/blob/main/profile-summary-card-output/0-profile-details.svg" />
+</a>
+  <br/>
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Haitham-sh&layout=compact&theme=algolia" alt="Haitham-sh" /></a> </p>
+<p align="center">
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img src="https://github-trophies.vercel.app/api?username=Haitham-sh&theme=algolia" alt="Github Trophies" />
+  </a>
+</p>
 
 -----
 ## Haitham Elsherbiny
