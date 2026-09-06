@@ -8,6 +8,7 @@
 - :computer:  I’m currently working as a Freelancer
 - :nerd_face: a developer who responds positively to challenge and pressure and is a fast learner who can able to adapt quickly to new ideas and situations.
 - :thinking: I'm currently open to an `internship` or a new `job opportunity`. This is [MY RESUME](https://drive.google.com/file/d/1G2KRZfRhHWrmpuowBSwIx81NZzmeyg0l/view?usp=drive_link).
+- 🚀: You can see my `Projects` in [MY PORTFOLIO](https://haitham-sh.github.io/haitham_portfolio).
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Haitham-sh&theme=algolia" alt="Haitham-sh" /></p>
